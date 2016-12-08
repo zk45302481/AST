@@ -10,6 +10,6 @@ class IndexController
 {
     public function index()
     {
-        echo 'I am here! ^_^';
+        echo 'Hello World';
     }
 }
